@@ -1,0 +1,1 @@
+Cuando hay que probar la configuracion de una caja lo normal es ir a cortar en el [[CNC]] y doblarlas manualmente, si necesitan pega ya sea para un tab o autolock bottom tambien se aplican en el laboratorio

@@ -1,0 +1,12 @@
+{
+  "angleMode": "deg",
+  "complexMode": false,
+  "precision": 12,
+  "historyLimit": 30,
+  "persistentHistory": false,
+  "history": [],
+  "keypadMode": "compact",
+  "exactFractionMode": false,
+  "accentColor": "#2f7cf6",
+  "rainbowAccentEnabled": false
+}

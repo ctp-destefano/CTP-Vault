@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f6a4002f42044e29","type":"text","text":"Recibir dise;o grafico y numero de referencia","x":-166,"y":-235,"width":250,"height":60,"color":"6"},
+		{"id":"7550f4ce8348e40d","type":"text","text":"Pegar referencia al el material especificado","x":-166,"y":-140,"width":250,"height":60},
+		{"id":"6d92c137e83cbd24","type":"text","text":"Seleccionar/crear ACM del CNC","x":-166,"y":-40,"width":250,"height":60},
+		{"id":"836dedb0c76730ca","type":"text","text":"Colocar en la mesa boca abajo, y colocar referencias","x":-166,"y":45,"width":250,"height":55},
+		{"id":"f3669744e4dcd7fa","type":"text","text":"empezar CNC","x":-166,"y":140,"width":250,"height":66},
+		{"id":"7f8738161619fa19","type":"text","text":"ensamblar caja [[ArtiosCAD]]","x":-166,"y":240,"width":250,"height":60},
+		{"id":"df97044611eaa005","x":-640,"y":-235,"width":400,"height":400,"type":"file","file":"01-Procesos/Laboratorio/CNC.canvas"}
+	],
+	"edges":[
+		{"id":"50318613b529e842","fromNode":"f6a4002f42044e29","fromSide":"bottom","toNode":"7550f4ce8348e40d","toSide":"top","color":"4"},
+		{"id":"3cdc1a5219146447","fromNode":"7550f4ce8348e40d","fromSide":"bottom","toNode":"6d92c137e83cbd24","toSide":"top"},
+		{"id":"137361d2a7abac26","fromNode":"6d92c137e83cbd24","fromSide":"bottom","toNode":"836dedb0c76730ca","toSide":"top"},
+		{"id":"add83b719f9def5a","fromNode":"836dedb0c76730ca","fromSide":"bottom","toNode":"f3669744e4dcd7fa","toSide":"top"},
+		{"id":"d0cdcdd8c71dcf6a","fromNode":"f3669744e4dcd7fa","fromSide":"bottom","toNode":"7f8738161619fa19","toSide":"top"}
+	]
+}

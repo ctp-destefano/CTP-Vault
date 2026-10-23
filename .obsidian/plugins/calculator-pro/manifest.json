@@ -1,0 +1,10 @@
+{
+  "id": "calculator-pro",
+  "name": "Calculator Pro",
+  "version": "1.0.5",
+  "minAppVersion": "1.5.0",
+  "description": "A clean scientific calculator with LaTeX formatting support.",
+  "author": "Minh",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
