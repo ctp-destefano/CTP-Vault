@@ -2,6 +2,9 @@ Material de empaque híbrido que combina cartón corrugado con una lámina de ca
 
 **En nuestra fábrica:** El material que llamamos _lithomounting_ consiste en una lámina de **single-face E flute con Folding Carton pegado encima**.
 
+Se escribe en el material
+[[litho]] 
+
 ### ¿Para qué se utiliza?
 
 - Combina una buena presentación visual con la resistencia del corrugado.
