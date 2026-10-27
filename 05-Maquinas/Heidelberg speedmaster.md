@@ -29,7 +29,9 @@ A continuación se detallan las especificaciones y medidas técnicas operacional
 - **Margen de pinza (Gripper margin):** Configurable entre 0.39 y 0.47 pulgadas _(10 a 12 mm)_.
 
 ![[Pasted image 20261027143243.png]]
+![[Pasted image 20261027143434.png]]
 ![[Pasted image 20261027143310.png]]
 ![[Pasted image 20261027143319.png]]
 
 ![[Pasted image 20261027143328.png]]
+![[Pasted image 20261027143348.png]]
