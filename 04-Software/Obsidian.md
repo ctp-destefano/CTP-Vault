@@ -3,6 +3,9 @@ Mi programa para uso personal de notas y referencias
 la hice publica en github usando Quartz
 [Obsidian Marcos Online](https://ctp-destefano.github.io/CTP-obsidian/)
 
+Actualizar aca: *(se necesitan credenciales)*
+https://github.com/ctp-destefano/CTP-obsidian/actions/workflows/deploy.yml
+
 uso el CODESPACE
 ### referencia del CODESPACE - Super-duper bassoon v5
 ![[Pasted image 20261027163534.png]]
