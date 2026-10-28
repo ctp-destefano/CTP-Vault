@@ -4,6 +4,6 @@ FlexiHead
 Bed size
 	64" x 86"
 
-![[CNC machine 1.png|360]]
 
 
+![[Pasted image 20261028084455.png]]
