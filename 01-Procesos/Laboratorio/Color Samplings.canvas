@@ -19,7 +19,6 @@
 		{"id":"0e152fc2fa739625","type":"file","file":"07-Imagenes/Pasted image 20261027165240.png","x":-1798,"y":4542,"width":400,"height":278},
 		{"id":"67e04860226effc6","type":"file","file":"07-Imagenes/Pasted image 20261027165253.png","x":-1273,"y":4542,"width":400,"height":299},
 		{"id":"9698cdd1a69d025f","type":"file","file":"07-Imagenes/Pasted image 20261027164458.png","x":-7900,"y":3878,"width":399,"height":274},
-		{"id":"afda1791324c6865","type":"file","file":"07-Imagenes/Pasted image 20261027164530.png","x":-8000,"y":3303,"width":400,"height":294},
 		{"id":"7f4d1ca8dfa405c2","type":"file","file":"07-Imagenes/Pasted image 20261027164546.png","x":-7640,"y":2747,"width":400,"height":366},
 		{"id":"1b0aac87c5c117c1","type":"file","file":"07-Imagenes/Pasted image 20261027164629.png","x":-7405,"y":3653,"width":344,"height":400},
 		{"id":"fbcb0572401332bf","type":"file","file":"07-Imagenes/Pasted image 20261027165310.png","x":-784,"y":4492,"width":315,"height":400},
@@ -80,8 +79,9 @@
 		{"id":"5474cf2cc2c88014","type":"text","text":"Seleccionamos el material en la ventana del proyecto y la de la mesa","x":-273,"y":1433,"width":250,"height":118,"color":"4"},
 		{"id":"292fe4b94c6f8d9a","type":"text","text":"# Paso 1\nAl recibir la impresion, tenemos que pegarla al material de la caja \n\n#### EJ: litho en litho corrugado en corrugado","x":-9320,"y":2663,"width":360,"height":267,"color":"4"},
 		{"id":"2851c221a370c331","type":"file","file":"07-Imagenes/Pasted image 20261027164423.png","x":-9340,"y":2989,"width":400,"height":248},
-		{"id":"575a4c70ae6db477","type":"file","file":"07-Imagenes/Pasted image 20261027164438.png","x":-8940,"y":3450,"width":400,"height":368},
-		{"id":"93f90fb5a961466c","type":"text","text":"# Paso 1.1\nCortamos el dise;o parecido y al papel ","x":-8421,"y":2891,"width":360,"height":267,"color":"4"}
+		{"id":"93f90fb5a961466c","type":"text","text":"# Paso 1.1\nCortamos el dise;o parecido y el papel","x":-9320,"y":3303,"width":360,"height":147,"color":"4"},
+		{"id":"575a4c70ae6db477","type":"file","file":"07-Imagenes/Pasted image 20261027164438.png","x":-9340,"y":3510,"width":400,"height":368},
+		{"id":"afda1791324c6865","type":"file","file":"07-Imagenes/Pasted image 20261027164530.png","x":-8880,"y":3584,"width":400,"height":294}
 	],
 	"edges":[
 		{"id":"50318613b529e842","fromNode":"f6a4002f42044e29","fromSide":"bottom","toNode":"7550f4ce8348e40d","toSide":"top","color":"4"},
@@ -126,12 +126,13 @@
 		{"id":"9935e9b07343d5ea","fromNode":"e07effd0e126ecdf","fromSide":"bottom","toNode":"bce822d0c26656c3","toSide":"top","color":"4"},
 		{"id":"cbf43a5ff2739d48","fromNode":"856b1284a74fdb5e","fromSide":"right","toNode":"4078d6fc97f24082","toSide":"left","color":"4"},
 		{"id":"c0375367a37752db","fromNode":"bce822d0c26656c3","fromSide":"right","toNode":"856b1284a74fdb5e","toSide":"left","color":"4"},
-		{"id":"437cb3bd80016cdb","fromNode":"2851c221a370c331","fromSide":"right","toNode":"575a4c70ae6db477","toSide":"left"},
 		{"id":"f23c168930531a0e","fromNode":"575a4c70ae6db477","fromSide":"right","toNode":"afda1791324c6865","toSide":"left"},
 		{"id":"362e6567043f4a2b","fromNode":"afda1791324c6865","fromSide":"right","toNode":"7f4d1ca8dfa405c2","toSide":"left"},
 		{"id":"b1941e4613762200","fromNode":"7f4d1ca8dfa405c2","fromSide":"right","toNode":"7598eb0c0980e7c9","toSide":"left"},
 		{"id":"03ee0f7e079e62a7","fromNode":"7598eb0c0980e7c9","fromSide":"bottom","toNode":"1b0aac87c5c117c1","toSide":"top"},
 		{"id":"5ed18671b3fc37db","fromNode":"1b0aac87c5c117c1","fromSide":"right","toNode":"bd2997c60966d6e2","toSide":"left"},
-		{"id":"60a6c5fb080cd3f0","fromNode":"292fe4b94c6f8d9a","fromSide":"bottom","toNode":"2851c221a370c331","toSide":"top"}
+		{"id":"60a6c5fb080cd3f0","fromNode":"292fe4b94c6f8d9a","fromSide":"bottom","toNode":"2851c221a370c331","toSide":"top"},
+		{"id":"bca1f69d7ebc0b2c","fromNode":"2851c221a370c331","fromSide":"bottom","toNode":"93f90fb5a961466c","toSide":"top"},
+		{"id":"37b634e026327470","fromNode":"93f90fb5a961466c","fromSide":"bottom","toNode":"575a4c70ae6db477","toSide":"top"}
 	]
 }
