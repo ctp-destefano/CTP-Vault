@@ -31,9 +31,6 @@
 		{"id":"1da185949d21323c","type":"file","file":"07-Imagenes/Pasted image 20261027164705.png","x":-7737,"y":5597,"width":314,"height":400},
 		{"id":"7791277abb80e775","type":"file","file":"07-Imagenes/Pasted image 20261027164741.png","x":-6666,"y":5658,"width":400,"height":279},
 		{"id":"121eb8510a73618b","type":"file","file":"07-Imagenes/Pasted image 20261027164753.png","x":-6212,"y":5873,"width":400,"height":248},
-		{"id":"2851c221a370c331","type":"file","file":"07-Imagenes/Pasted image 20261027164423.png","x":-9340,"y":3113,"width":400,"height":248},
-		{"id":"eb7aea4149580584","type":"text","text":"Recibir el material primero","x":-9265,"y":2994,"width":250,"height":60},
-		{"id":"575a4c70ae6db477","type":"file","file":"07-Imagenes/Pasted image 20261027164438.png","x":-8800,"y":3113,"width":400,"height":368},
 		{"id":"0508541883e03370","type":"file","file":"07-Imagenes/Pasted image 20261027164812.png","x":-6137,"y":5558,"width":400,"height":239},
 		{"id":"08bb94a6c272296d","type":"file","file":"07-Imagenes/Pasted image 20261027164839.png","x":-6866,"y":6021,"width":400,"height":286},
 		{"id":"3527e30bc2daae8c","type":"file","file":"07-Imagenes/Pasted image 20261027164656.png","x":-8254,"y":5397,"width":354,"height":400},
@@ -81,7 +78,10 @@
 		{"id":"1d431e0d2fd888cc","type":"file","file":"07-Imagenes/CNC/CNC_CNCbed software.jpg","x":537,"y":1628,"width":400,"height":300},
 		{"id":"df97044611eaa005","type":"file","file":"01-Procesos/Laboratorio/CNC.canvas","x":-640,"y":-235,"width":400,"height":400},
 		{"id":"5474cf2cc2c88014","type":"text","text":"Seleccionamos el material en la ventana del proyecto y la de la mesa","x":-273,"y":1433,"width":250,"height":118,"color":"4"},
-		{"id":"292fe4b94c6f8d9a","type":"text","text":"# Paso 1\nAl recibir la impresion, tenemos que pegarla ","x":-9240,"y":2540,"width":250,"height":207,"color":"4"}
+		{"id":"292fe4b94c6f8d9a","type":"text","text":"# Paso 1\nAl recibir la impresion, tenemos que pegarla al material de la caja \n\n#### EJ: litho en litho corrugado en corrugado","x":-9320,"y":2663,"width":360,"height":267,"color":"4"},
+		{"id":"2851c221a370c331","type":"file","file":"07-Imagenes/Pasted image 20261027164423.png","x":-9340,"y":2989,"width":400,"height":248},
+		{"id":"575a4c70ae6db477","type":"file","file":"07-Imagenes/Pasted image 20261027164438.png","x":-8940,"y":3450,"width":400,"height":368},
+		{"id":"93f90fb5a961466c","type":"text","text":"# Paso 1.1\nCortamos el dise;o parecido y al papel ","x":-8421,"y":2891,"width":360,"height":267,"color":"4"}
 	],
 	"edges":[
 		{"id":"50318613b529e842","fromNode":"f6a4002f42044e29","fromSide":"bottom","toNode":"7550f4ce8348e40d","toSide":"top","color":"4"},
@@ -132,6 +132,6 @@
 		{"id":"b1941e4613762200","fromNode":"7f4d1ca8dfa405c2","fromSide":"right","toNode":"7598eb0c0980e7c9","toSide":"left"},
 		{"id":"03ee0f7e079e62a7","fromNode":"7598eb0c0980e7c9","fromSide":"bottom","toNode":"1b0aac87c5c117c1","toSide":"top"},
 		{"id":"5ed18671b3fc37db","fromNode":"1b0aac87c5c117c1","fromSide":"right","toNode":"bd2997c60966d6e2","toSide":"left"},
-		{"id":"9f855e592138e05a","fromNode":"eb7aea4149580584","fromSide":"bottom","toNode":"2851c221a370c331","toSide":"top"}
+		{"id":"60a6c5fb080cd3f0","fromNode":"292fe4b94c6f8d9a","fromSide":"bottom","toNode":"2851c221a370c331","toSide":"top"}
 	]
 }
