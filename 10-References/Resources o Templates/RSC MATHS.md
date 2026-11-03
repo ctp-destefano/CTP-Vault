@@ -7,5 +7,8 @@ Las RSC siempre son  32 ECT C, a menos de que digan lo contrario
 
 $$
 2W+2L = Lenght
-W+H + 
+
+$$
+$$
+W + H = Width
 $$
