@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cb7e907c1be8dec6","type":"text","text":"# **Folding Carton Most Used**","x":-680,"y":0,"width":420,"height":100,"color":"4"},
+		{"id":"b34734a99deea4aa","type":"text","text":"Auto Lock Bottom / tuck top","x":-649,"y":160,"width":250,"height":60},
+		{"id":"aeea68fbedc7d46b","type":"file","file":"FC-A60.20.png","x":-680,"y":280,"width":312,"height":400}
+	],
+	"edges":[
+		{"id":"7c8d68d92da59e11","fromNode":"cb7e907c1be8dec6","fromSide":"bottom","toNode":"b34734a99deea4aa","toSide":"top"},
+		{"id":"b332c02d5594d9ac","fromNode":"b34734a99deea4aa","fromSide":"bottom","toNode":"aeea68fbedc7d46b","toSide":"top"}
+	]
+}
