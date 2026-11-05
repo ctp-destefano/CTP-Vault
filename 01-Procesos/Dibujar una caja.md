@@ -18,4 +18,8 @@ Dependiendo de la informacion y el requerimiento, hay que empezar un nuevo dise;
 - el primer dibujo que se hace es un [[1UP]] y se tiene que guardar con medidas y el [[Textos|texto]] estandar de CTP 
 
 # Paso 4 - Dibujar el [[Nesting]]
-El [[1up]] que acabamos de dibujar se 
+El [[1up]] que acabamos de dibujar se pasa a manufacturing ![[Pasted image 20261105165104.png|27]]  y se aplican los estandars y parametros de CTP para Nestings que suele variar mucho segun el [[Material]]
+
+# Paso 5 - Guardar PDF
+Se guarda un PDF con capas con escala 1:1 usando las medidas de salida, en CTP usan los margenes de 2.5" para el pdf (tiene que ver con procesos de produccion mas adelanteen la cadena)
+
