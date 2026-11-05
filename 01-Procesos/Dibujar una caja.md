@@ -6,5 +6,12 @@ hay que ir a ...Customer/ "Inicial del cliente"/ "nombre del cliente"
 ## paso 2.1A 
 Si la carpeta del cliente ya existe entonces se crea unicamentela carpeta del proyecto 
 	XXX"Inicials" - "nombre del proyecto"
+	`EJ: "...Customer/A/AmazingLLC/Estimate/420AMZ - Awesome Box"`
 ## paso 2.1B
-Si la carpeta del cliente no existe, se crea en la carpeta 
+Si la carpeta del cliente no existe, se crea en la carpeta con la inicial del cliente,
+- luego se compia los contenidos de ...Customer/ Empty Folder,
+- se abre la nueva carpeta copiada "Estimate" y alli se crea la carpeta del proyecto XXX"Inicials" - "nombre del proyecto"
+- `EJ: "...Customer/A/AmazingLLC/Estimate/420AMZ - Awesome Box"`
+
+# Paso 3 - Dibujar caja
+Dependiendo de la informacion y el requerimiento, hay que 
