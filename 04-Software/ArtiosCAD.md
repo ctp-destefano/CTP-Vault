@@ -1,13 +1,24 @@
+# ArtiosCAD
 
-software de diseño estructural de packaging utilizado para crear dielines, desarrollar cajas corrugadas y folding cartons, definir cortes/hendidos y verificar el diseño en 3D.
+
+Software de diseño estructural para crear dielines, cortes, creases, [[1UP|1UPs]] y [[Nesting|nestings]]. En CTP se usa **ArtiosCAD 2026**.
+
+
+**Atajos anotados en el vault (verificar en esta instalación):** Ctrl+1 construction-line offset; Ctrl+D ajustar vista; Ctrl+R zoom por área.
+
 
 ![[Soft_ArtiosCAD screenshot.png|247]]
 
-#### Comandos/Shortcuts
 
-Construction lines:
-	Ctrl+1 >> offset de la linea de construccion ![[Artios_Offsetco.png]]
+## Notas relacionadas
+- [[1UP]]
+- [[Nesting]]
+- [[Dibujar una caja]]
 
-zoom y camara
-	Ctrl+D >> encagar dibujo a pantalla D ![[Pasted image 20261028145245.png]]
-	Ctrl+R >> Zoom de area ![[Pasted image 20261028145311.png]]
+
+## Fuentes y referencias
+- [Esko ArtiosCAD 2026](https://docs.esko.com/docs/en-us/artioscad/26.07/userguide/home.html)
+
+
+## Tags
+#artioscad #software

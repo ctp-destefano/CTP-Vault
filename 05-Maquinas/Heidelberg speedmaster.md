@@ -1,37 +1,59 @@
+---
+aliases: []
+tags:
+  - maquinaria
+  - impresion
+  - offset
+  - folding-carton
+departamento: "Printing"
+responsable: "Rafael"
+fabricante: "Heidelberg"
+modelo: "Speedmaster SM 102"
+estado_documentacion: parcial
+---
 
-La impresora de folding carton
+# Heidelberg speedmaster
 
-La opera rafael
+> [!info] Descripción
+> Prensa offset industrial de pliegos utilizada para imprimir empaques de Folding Carton a seis colores.
 
-La **Heidelberg Speedmaster SM 102** es una prensa de impresión offset de pliegos de gran formato (formato B1), ampliamente reconocida en la industria por su robustez y alta velocidad de producción.
+## Uso en nuestra fábrica
+La utilizamos para imprimir sobre [[Folding Carton]], con capacidad de impresión a **6 colores**. En los trabajos impresos pueden incorporarse acabados como **Soft Touch** o **Matte**.
 
-A continuación se detallan las especificaciones y medidas técnicas operacionales clave convertidas a **pulgadas**:
+Está pendiente confirmar si estos acabados se aplican directamente en la prensa o en un proceso adicional.
 
-📏 Dimensiones Operacionales del Pliego (Papel)
+## Responsable
+- **Departamento:** Printing
+- **Persona encargada:** Rafael
 
-- **Tamaño máximo del pliego (Impresión directa):** 28.35 × 40.16 pulgadas _(720 × 1,020 mm)_
-- **Tamaño máximo del pliego (Modo perfeccionador / Retiración):** 27.56 × 40.16 pulgadas _(700 × 1,020 mm)_
-- **Tamaño mínimo del pliego (Impresión directa):** 13.39 × 18.90 pulgadas _(340 × 480 mm)_
-- **Tamaño mínimo del pliego (Modo perfeccionador / Retiración):** 11.02 × 18.90 pulgadas _(280 × 480 mm)_
-- **Área máxima de impresión:** 27.56 × 40.16 pulgadas _(700 × 1,020 mm)_
-- **Grosor del soporte (Papel/Cartoncillo):** Desde 0.0012 hasta 0.031 pulgadas _(0.03 a 0.8 mm)_
-
-🛠️ Medidas de los Consumibles (Planchas y Mantillas)
-
-- **Tamaño de la plancha de impresión:** 31.10 × 40.55 pulgadas _(790 × 1,030 mm)_
-- **Grosor estándar de la plancha:** 0.012 pulgadas _(0.30 mm)_
-- **Tamaño de la mantilla (Caucho):** 33.86 × 41.54 pulgadas _(860 × 1,055 mm)_
-- **Grosor estándar de la mantilla:** 0.075 pulgadas _(1.90 mm)_
-
-⚙️ Datos de Rendimiento General
-
-- **Velocidad máxima de producción:** Hasta 15,000 pliegos por hora.
-- **Margen de pinza (Gripper margin):** Configurable entre 0.39 y 0.47 pulgadas _(10 a 12 mm)_.
-
+## Fotografías
 ![[Pasted image 20261027143243.png]]
-![[Pasted image 20261027143434.png]]
-![[Pasted image 20261027143310.png]]
-![[Pasted image 20261027143319.png]]
+![[Pasted image 20261110124106.png|804]]
+## Cómo funciona
+La prensa alimenta pliegos y transfiere la tinta por unidades offset sucesivas.
 
-![[Pasted image 20261027143328.png]]
-![[Pasted image 20261027143348.png]]
+## Especificaciones técnicas
+| Característica | Especificación |
+|---|---|
+| Fabricante | Heidelberg |
+| Modelo | Speedmaster SM 102 |
+| Características documentadas | Pliego máx. anotado: 28.35″ × 40.16″; área impresión anotada: 27.56″ × 40.16″. Ambos sujetos a verificación. |
+| Colores | 6 |
+| Material utilizado | Folding Carton |
+| Acabados utilizados | Soft Touch y Matte |
+| Tamaño mínimo y máximo | Por confirmar |
+| Espesores / materiales admitidos | Por confirmar |
+| Capacidad y velocidad | Por confirmar |
+
+## Limitaciones para diseño
+Confirmar límites de pliego, gripper, área imprimible, calibres de Folding Carton y materiales de la configuración instalada. Verificar requisitos de Soft Touch y Matte, así como el proceso utilizado para aplicarlos.
+
+> [!warning] Validación
+> Las cifras anotadas proceden de las notas internas y **no deben tratarse como límites operativos confirmados** hasta verificar la configuración instalada.
+
+## Documentación
+- Manual y ficha técnica: pendientes.
+
+## Referencias
+- [[Folding Carton]]
+- [[Limite de maquinas y equipo]]

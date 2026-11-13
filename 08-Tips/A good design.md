@@ -1,10 +1,21 @@
+# A good design
 
-un buen dise;o tiene que tener en cuenta lo siguiente
+Un buen diseño debe:
 
-- resistencia del material
-- relacion costo/cantidad
-- tener en cuenta la fragilidad del producto
-- sencillo de armar, ~15 seg 
-- tener en cuenta todas las tolerancias
-- si es redondeado es mas facil hacer que entre en el empaque
-- que la direccion de pegado sea en plano
+- Proteger el producto y ajustarse a sus medidas.
+- Ser fácil de armar y fabricar.
+- Respetar tolerancias y limitaciones de máquinas.
+- Equilibrar resistencia, material y costo.
+
+No fijar un tiempo universal de armado sin medirlo.
+
+## Notas relacionadas
+- [[Dibujar una caja]]
+- [[Limite de cajas]]
+- [[Material]]
+
+## Fuentes y referencias
+- #tips #structuraldesign
+
+## Tags
+#ctp

@@ -1,24 +1,22 @@
-
-# Documentos de clientes
-##### Ejemplo de ruta de estimado
-Z:\Marketing\CUSTOMERS\N\NAPOLI 081 LLC\ESTIMATES\004NPL - DESSERT BOX AND SLEEVE
-    Z:\
-        Marketing
-            CUSTOMERS
-			    N
-				    NAPOLI 081 LLC
-					    ESTIMATES
-						    004NPL - DESSERT BOX AND SLEEVE
-
-##### Ruta de mi carpeta compartida
-Z:\Share Any File Here\00_MARCOS CTP
-    Z:\
-        Share Any File Here
-            00_MARCOS CTP
+﻿# Path de carpetas
 
 
+**Estimados:** `Z:\Marketing\CUSTOMERS\[Inicial]\[Cliente]\ESTIMATES\[Proyecto]`.
 
 
+**Carpeta compartida anotada:** `Z:\Share Any File Here\00_MARCOS CTP`.
 
 
-# Share Drive
+Conservar la estructura exacta usada por CTP.
+
+
+## Notas relacionadas
+- [[Dibujar una caja]]
+
+
+## Fuentes y referencias
+- Rutas internas del vault.
+
+
+## Tags
+#rutas #workflow

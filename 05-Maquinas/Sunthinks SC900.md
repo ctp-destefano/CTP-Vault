@@ -1,18 +1,55 @@
-# La impresora digital 
-Dimensiones de la máquina
+---
+tags:
+  - maquinaria
+  - impresion-digital
+  - single-pass
+  - corrugado
+departamento: Impresión
+responsable: Por confirmar
+fabricante: Sunthinks
+modelo: SC900
+estado_documentacion: parcial
+---
 
-- **Largo:** ~162.2 pulgadas (4120 mm)
-- **Ancho:** ~88.6 pulgadas (2250 mm)
-- **Alto:** ~86.6 pulgadas (2200 mm)
+# Sunthinks SC900
 
-Capacidad de operación
+> [!info] Descripción
+> Impresora digital single-pass para materiales de empaque.
 
-- **Ancho máximo de alimentación:** ~78.7 pulgadas (2000 mm)
-- **Ancho máximo de impresión:** ~35.4 pulgadas (900 mm)
-- **Espesor/Altura máxima del material:** ~3.15 pulgadas (80 mm)
+## Uso en nuestra fábrica
+Impresión digital de material para cajas y empaques.
 
-The Sunthinks SC900 is a high-speed digital single-pass inkjet printer engineered for porous packaging materials like corrugated cardboard and cartons. It features a 35.4-inch (900mm) maximum print width, powered by HP OEM A3 printbars, achieving speeds up to 30 meters per minute
+## Responsable
+- **Departamento:** Impresión
+- **Persona encargada:** Por confirmar
 
-![[Pasted image 20261027142148.png|991]]
-![[Pasted image 20261027142341.png]]
-![[1758015361304535.pdf]]
+## Fotografías
+![[Pasted image 20261027142148.png]]
+
+### PDF
+![[1758015361304535 1.pdf]]
+## Cómo funciona
+Imprime digitalmente sobre el material en una pasada mediante cabezales de impresión.
+
+## Especificaciones técnicas
+| Característica                   | Especificación                                                                          |
+| -------------------------------- | --------------------------------------------------------------------------------------- |
+| Fabricante                       | Sunthinks                                                                               |
+| Modelo                           | SC900                                                                                   |
+| Características documentadas     | Alimentación hasta 78.7″; ancho de impresión hasta 35.4″ (datos anotados, por validar). |
+| Tamaño mínimo y máximo           | Por confirmar                                                                           |
+| Espesores / materiales admitidos | Por confirmar                                                                           |
+| Capacidad y velocidad            | Por confirmar                                                                           |
+
+## Limitaciones para diseño
+Confirmar área imprimible real, tamaño mínimo, espesor, margen de alimentación y restricciones locales.
+
+> [!warning] Validación
+> Las cifras anotadas proceden de las notas internas y **no deben tratarse como límites operativos confirmados** hasta verificar la configuración instalada.
+
+## Documentación
+- ![[1758015361304535 1.pdf]]
+
+## Referencias
+- [[Corrugado]]
+- [[Limite de maquinas y equipo]]

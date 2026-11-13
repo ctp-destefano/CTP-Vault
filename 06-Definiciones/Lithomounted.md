@@ -1,17 +1,14 @@
-Material de empaque híbrido que combina cartón corrugado con una lámina de cartulina o papel pegada sobre él. La lámina exterior proporciona una superficie lisa para imprimir gráficos de alta calidad, mientras que el corrugado aporta resistencia y protección.
+Material híbrido con una hoja impresa adherida a corrugado single-face.
 
-**En nuestra fábrica:** El material que llamamos _lithomounting_ consiste en una lámina de **single-face E flute con Folding Carton pegado encima**.
+En CTP se usa folding carton sobre E Flute o B Flute. La combinación exacta depende de la orden.
 
-Se escribe en el material
-[[litho]] 
+## Notas relacionadas
+- [[litho]]
+- [[Corrugado]]
+- [[Folding Carton]]
 
-### ¿Para qué se utiliza?
+## Fuentes y referencias
+- #lithomounted #material
 
-- Combina una buena presentación visual con la resistencia del corrugado.
-- Permite obtener impresiones más nítidas y detalladas que la impresión directa sobre corrugado.
-- Se utiliza en empaques de presentación, cajas para productos y displays.
-
-
-#<mark style="background: #BBFABBA6;"></mark>## Nota
-Estos términos suelen estar relacionados, aunque el nombre específico puede variar según el proceso y la construcción del material.
-
+## Tags
+#ctp

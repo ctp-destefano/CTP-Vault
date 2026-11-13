@@ -1,3 +1,20 @@
-es un software montado en una pagina web que se usa para gestionar y coordinar los procesos de trabajos mediante la creacion de tickets
+# Graphic Print
+
+
+Sistema web de CTP para administrar proyectos, solicitudes y [[Tickets|tickets]].
+
 
 ![[GraphicPrint Logo.png]]
+
+
+## Notas relacionadas
+- [[Tickets]]
+- [[Dibujar una caja]]
+
+
+## Fuentes y referencias
+- Sistema interno CTP.
+
+
+## Tags
+#software #tickets

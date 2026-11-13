@@ -1,0 +1,93 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.29.0",
+  "libraryItems": [
+    {
+      "id": "cuNL0AIKU8EfITH5oFEuV",
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "ofzi5N9JEcuZt55dwVTP0",
+          "type": "rectangle",
+          "x": 257.9211441296945,
+          "y": 3246.463232037806,
+          "width": 508.9902084268512,
+          "height": 282.0124783934432,
+          "angle": 1.5707963267948957,
+          "strokeColor": "#e03131",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0K",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 1543748127,
+          "version": 806,
+          "versionNonce": 1608719409,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "XXQ3qR11"
+            }
+          ],
+          "updated": 1793277851308,
+          "created": 1793277840840,
+          "link": null,
+          "locked": false,
+          "hasTextLink": false
+        },
+        {
+          "id": "XXQ3qR11",
+          "type": "text",
+          "x": 451.91624834312006,
+          "y": 3374.9694712345276,
+          "width": 121,
+          "height": 24.999999999999986,
+          "angle": 1.5707963267948957,
+          "strokeColor": "#e03131",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0L",
+          "roundness": null,
+          "seed": 686104127,
+          "version": 520,
+          "versionNonce": 1114795537,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1793277851308,
+          "created": 1793277840840,
+          "locked": false,
+          "text": "Recicladora",
+          "rawText": "Recicladora",
+          "fontSize": 19.99999999999999,
+          "baseFontSize": null,
+          "fontFamily": 8,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "ofzi5N9JEcuZt55dwVTP0",
+          "originalText": "Recicladora",
+          "autoResize": true,
+          "lineHeight": 1.25,
+          "labelPosition": null,
+          "hasTextLink": false,
+          "link": null
+        }
+      ],
+      "created": 1794331143211
+    }
+  ]
+}

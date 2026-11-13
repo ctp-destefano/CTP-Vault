@@ -1,18 +1,33 @@
+# Obsidian
+
+
+Aplicación para organizar notas Markdown, enlaces `[[wikilinks]]`, Canvas y dibujos.
+
 Mi programa para uso personal de notas y referencias
 
-la hice publica en github usando Quartz
+la hice publica en github usando Quartz  
 [Obsidian Marcos Online](https://ctp-destefano.github.io/CTP-obsidian/)
 
-Actualizar aca: *(se necesitan credenciales)*
-https://github.com/ctp-destefano/CTP-obsidian/actions/workflows/deploy.yml
+Actualizar aca: _(se necesitan credenciales)_  
+[https://github.com/ctp-destefano/CTP-obsidian/actions/workflows/deploy.yml](https://github.com/ctp-destefano/CTP-obsidian/actions/workflows/deploy.yml)
 
 uso el CODESPACE
-### referencia del CODESPACE - Super-duper bassoon v5
-![[Pasted image 20261027163534.png]]
-## Actualizar el obsidian
-por como hice el dominio en quartz hay que entrar al repositorio de CTP-obsidian >>  Actions >> Deploy quartz to githu >> Run Workflow
+
+
+El vault se publica mediante Quartz y GitHub Pages. La dirección publicada y el estado del despliegue deben verificarse antes de fijar un enlace.
+
+
 ![[Pasted image 20261027163316.png]]
 
-![nota]
-luego lo actualizo para que se actualize solo cada 10 minutos, usar token personal "fine grained token"
 
+## Notas relacionadas
+- [[CTP Wiki]]
+- [[Guia de Obisidian]]
+
+
+## Fuentes y referencias
+- Documentación interna del proyecto Quartz.
+
+
+## Tags
+#obsidian #software

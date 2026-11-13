@@ -1,29 +1,20 @@
-Los materiales que maneja CPT Boxes y los mas comunes son:
+Materiales habituales en CTP:
 
-## [[Corrugado]]
-[[200 C]]
-[[32 ETC]] C
-[[32 ETC]] B
+- [[Corrugado]]: E, B y C Flute; 200 C y 32 ECT.
+- [[Double Wall]]: BC ECT y CB ECT.
+- [[Folding Carton]]: 16 pt y 24 pt.
+- [[Lithomounted]]: folding carton adherido a single-face E o B.
 
-## [[Folding Carton]]
-16[[Pts]]
-24[[Pts]]
+Los tipos de glue se registran aparte.
 
-## Glue types
+## Notas relacionadas
+- [[Corrugado]]
+- [[Double Wall]]
+- [[Folding Carton]]
+- [[Lithomounted]]
 
-*No Glue*
->no lleva pega, solo dobles
+## Fuentes y referencias
+- #material #ctp
 
-*Straigh Line
->lo aplica la maquina ensambladora
-
-*Auto Lock Bottom
->se refiere a una cara de la caja que viene con pega en los flap para que por mecanica se cierre sola
-
-### Nota:
->Hay mas materiales, como folding carton de 8Pts hasta 28 Pts o mas, pero no se suelen usar aca
-
-
-#### *tags
-#materials; #glue 
- 
+## Tags
+#ctp

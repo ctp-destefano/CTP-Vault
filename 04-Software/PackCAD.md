@@ -1,3 +1,23 @@
-3D viewer and box folder
-https://app.packcad.com/mockup/
-<iframe src="https://app.packcad.com/mockup/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+# PackCAD
+
+
+Visor web para revisar modelos de cajas en 3D.
+
+
+[Abrir PackCAD](https://app.packcad.com/mockup/)
+
+
+Comprobar formatos admitidos antes de exportar desde [[ArtiosCAD]].
+
+
+## Notas relacionadas
+- [[ArtiosCAD]]
+- [[1UP]]
+
+
+## Fuentes y referencias
+- [PackCAD](https://app.packcad.com/mockup/)
+
+
+## Tags
+#software #3d

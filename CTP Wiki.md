@@ -1,17 +1,22 @@
-
-# Bienvenido a CTP Wiki
-
-Biblioteca de conocimientos de CTP.
-
-Aquí encontrarás nuestros procesos, materiales, herramientas, software y documentación de diseño estructural.
-
-## Explorar
+# CTP Wiki
 
 
-- [[Corrugado]]
-    
-- [[Folding Carton]]
-    
-- [[ArtiosCAD]]
-    
-- [[Flute]]
+Biblioteca técnica de diseño estructural, materiales, procesos, máquinas y herramientas de CTP.
+
+
+Empieza por [[Dibujar una caja]], [[Material]], [[Tipos de cajas]] o [[Limite de cajas]].
+
+
+## Notas relacionadas
+- [[Dibujar una caja]]
+- [[Material]]
+- [[Tipos de cajas]]
+- [[Limite de cajas]]
+
+
+## Fuentes y referencias
+- Documentación interna de CTP.
+
+
+## Tags
+#ctp #indice

@@ -1,1 +1,0 @@
-Siempre va a ser un chipboard + corrugado + liner/chipboard

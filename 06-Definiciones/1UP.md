@@ -1,3 +1,15 @@
-**1-Up:** layout donde aparece **una sola repetición del blank/[[Die]]** en la hoja de material. 2-Up = dos repeticiones, 4-Up = cuatro, etc.
+Dieline de una sola pieza o repetición del diseño.
+
+Un [[Nesting]] puede incluir varios 1UP para aprovechar mejor la hoja.
 
 ![[Pasted image 20261015125028.png]]
+
+## Notas relacionadas
+- [[Nesting]]
+- [[ArtiosCAD]]
+
+## Fuentes y referencias
+- #1up #dieline
+
+## Tags
+#ctp

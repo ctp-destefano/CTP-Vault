@@ -2,5 +2,6 @@
   "cssTheme": "Obuntu",
   "theme": "obsidian",
   "accentColor": "#ffd500",
-  "textFontFamily": "Bernard MT,3DS Fonticon,3ds"
+  "textFontFamily": "Bernard MT,3DS Fonticon,3ds",
+  "showRibbon": true
 }
