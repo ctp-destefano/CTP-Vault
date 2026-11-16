@@ -1,4 +1,4 @@
-﻿# 00_Notas
+# 00_Notas
 
 
 Apuntes rápidos pendientes de clasificar.

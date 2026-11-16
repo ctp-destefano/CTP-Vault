@@ -1,4 +1,4 @@
-﻿# Limite de cajas
+# Limite de cajas
 
 
 **Corrugado (valores anotados; verificar):** anchos de liner 40", 45", 50", 56", 60", 65", 68"; flat die 41" × 62"; máximo de scores 12.
