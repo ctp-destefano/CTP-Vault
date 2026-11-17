@@ -5,7 +5,11 @@ Referencias y tolerancias para el diseño identificado internamente como FEFCO 4
 
 
 ![[427 _ TOLERANCE C-FLUTE.pdf]]
+
 ![[Pasted image 20261117160824.png]]
+
+![[Pasted image 20261117162004.png]]
+
 ![[Pasted image 20261029112500.png]]
 ![[Pasted image 20261029113626.png]]
 
