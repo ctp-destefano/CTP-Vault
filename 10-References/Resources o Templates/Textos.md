@@ -6,7 +6,7 @@ EL gripper siempre va a ser la medida del margen inferior
 ![[Artios_Gripper_sheet size.png]]
 ## [[1UP]] texto
 CUSTOMER: 
-REF: 002DPD - C 427 CLEANER STARTER PACK
+REF: 
 SIZE: X x Y x Z
 MATERIAL: 
 
