@@ -2,7 +2,7 @@ Dieline de una sola pieza o repetición del diseño.
 
 Un [[Nesting]] puede incluir varios 1UP para aprovechar mejor la hoja.
 
-![[Pasted image 20261015125028.png]]
+![[Pasted image 20261120094746.png]]
 
 ## Notas relacionadas
 - [[Nesting]]
